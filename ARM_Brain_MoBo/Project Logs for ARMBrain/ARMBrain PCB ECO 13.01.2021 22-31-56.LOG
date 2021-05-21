@@ -1,0 +1,84 @@
+Added Component: Designator=R9(R0603)
+Added Component: Designator=R10(R0603)
+Added Component: Designator=R11(R0603)
+Added Component: Designator=R12(R0603)
+Added Component: Designator=R13(R0603)
+Added Component: Designator=R14(R0603)
+Added Component: Designator=R15(R0603)
+Added Component: Designator=R16(R0603)
+Added Component: Designator=R17(R0603)
+Added Component: Designator=R18(R0603)
+Added Component: Designator=R19(R0603)
+Added Component: Designator=R20(R0603)
+Added Component: Designator=R21(R0603)
+Added Component: Designator=R22(R0603)
+Added Component: Designator=R24(R0603)
+Added Component: Designator=R25(R0603)
+Added Component: Designator=R26(R0603)
+Added Component: Designator=R27(R0603)
+Added Component: Designator=R28(R0603)
+Added Component: Designator=R29(R0603)
+Added Component: Designator=R30(R0603)
+Added Pin To Net: NetName=RD_N Pin=R9-1
+Added Pin To Net: NetName=NetC8_2 Pin=R9-2
+Added Pin To Net: NetName=TD_N Pin=R10-1
+Added Pin To Net: NetName=NetC8_2 Pin=R10-2
+Added Pin To Net: NetName=+3V3_PER Pin=R11-1
+Added Pin To Net: NetName=NetR11_2 Pin=R11-2
+Added Pin To Net: NetName=+3V3_PER Pin=R12-1
+Added Pin To Net: NetName=NetR12_2 Pin=R12-2
+Added Pin To Net: NetName=+3V3_PER Pin=R13-1
+Added Pin To Net: NetName=NetR13_2 Pin=R13-2
+Added Pin To Net: NetName=RD_P Pin=R14-1
+Added Pin To Net: NetName=NetC8_2 Pin=R14-2
+Added Pin To Net: NetName=TD_P Pin=R15-1
+Added Pin To Net: NetName=NetC8_2 Pin=R15-2
+Added Pin To Net: NetName=NetR11_2 Pin=R16-1
+Added Pin To Net: NetName=NetR16_2 Pin=R16-2
+Added Pin To Net: NetName=NetR12_2 Pin=R17-1
+Added Pin To Net: NetName=NetR17_2 Pin=R17-2
+Added Pin To Net: NetName=NetR18_1 Pin=R18-1
+Added Pin To Net: NetName=GND Pin=R18-2
+Added Pin To Net: NetName=NetC14_2 Pin=R19-1
+Added Pin To Net: NetName=NetR19_2 Pin=R19-2
+Added Pin To Net: NetName=NetC14_2 Pin=R20-1
+Added Pin To Net: NetName=NetR20_2 Pin=R20-2
+Added Pin To Net: NetName=NetC14_2 Pin=R21-1
+Added Pin To Net: NetName=NetCN1_4 Pin=R21-2
+Added Pin To Net: NetName=NetC14_2 Pin=R22-1
+Added Pin To Net: NetName=NetCN1_7 Pin=R22-2
+Added Pin To Net: NetName=NetR13_2 Pin=R24-1
+Added Pin To Net: NetName=NetR24_2 Pin=R24-2
+Added Pin To Net: NetName=NetR25_1 Pin=R25-1
+Added Pin To Net: NetName=+3V3_PER Pin=R25-2
+Added Pin To Net: NetName=+3V3_PER Pin=R26-1
+Added Pin To Net: NetName=NetR26_2 Pin=R26-2
+Added Pin To Net: NetName=NetR26_2 Pin=R27-1
+Added Pin To Net: NetName=NetR27_2 Pin=R27-2
+Added Pin To Net: NetName=NetCN1_9 Pin=R28-1
+Added Pin To Net: NetName=GND Pin=R28-2
+Added Pin To Net: NetName=NetCN1_12 Pin=R29-1
+Added Pin To Net: NetName=GND Pin=R29-2
+Added Pin To Net: NetName=NetCN1_11 Pin=R30-1
+Added Pin To Net: NetName=GND Pin=R30-2
+Added Member To Class: ClassName=Ethernet Member=Component R9 50
+Added Member To Class: ClassName=Ethernet Member=Component R10 50
+Added Member To Class: ClassName=Ethernet Member=Component R11 10K
+Added Member To Class: ClassName=Ethernet Member=Component R12 10K
+Added Member To Class: ClassName=Ethernet Member=Component R13 10K
+Added Member To Class: ClassName=Ethernet Member=Component R14 50
+Added Member To Class: ClassName=Ethernet Member=Component R15 50
+Added Member To Class: ClassName=Ethernet Member=Component R16 33
+Added Member To Class: ClassName=Ethernet Member=Component R17 33
+Added Member To Class: ClassName=Ethernet Member=Component R18 10K
+Added Member To Class: ClassName=Ethernet Member=Component R19 75
+Added Member To Class: ClassName=Ethernet Member=Component R20 75
+Added Member To Class: ClassName=Ethernet Member=Component R21 75
+Added Member To Class: ClassName=Ethernet Member=Component R22 75
+Added Member To Class: ClassName=Ethernet Member=Component R24 33
+Added Member To Class: ClassName=Ethernet Member=Component R25 1K5
+Added Member To Class: ClassName=Ethernet Member=Component R26 10K
+Added Member To Class: ClassName=Ethernet Member=Component R27 33
+Added Member To Class: ClassName=Ethernet Member=Component R28 270
+Added Member To Class: ClassName=Ethernet Member=Component R29 10K
+Added Member To Class: ClassName=Ethernet Member=Component R30 270

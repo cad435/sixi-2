@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=NetIC_T1_16 Pin=T1-1
+Removed Pin From Net: NetName=NetIC_T1_14 Pin=T1-2
+Removed Pin From Net: NetName=NetIC_T1_11 Pin=T1-3
+Removed Pin From Net: NetName=NetIC_T1_9 Pin=T1-6
+Removed Member From Class: ClassName=Ethernet Member=T1
+Added Component: Designator=T?(RJ45_ETH)
+Added Pin To Net: NetName=NetIC_T1_16 Pin=T?-1
+Added Pin To Net: NetName=NetIC_T1_14 Pin=T?-2
+Added Pin To Net: NetName=NetIC_T1_11 Pin=T?-3
+Added Pin To Net: NetName=NetIC_T1_9 Pin=T?-6
+Added Member To Class: ClassName=Ethernet Member=Component T? RJ45

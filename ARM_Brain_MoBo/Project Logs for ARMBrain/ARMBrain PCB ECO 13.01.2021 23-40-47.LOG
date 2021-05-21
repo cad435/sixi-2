@@ -1,0 +1,25 @@
+Change Component Designator: OldDesignator=T? NewDesignator=T1
+Added Component: Designator=L1(0805)
+Added Pin To Net: NetName=NetC8_2 Pin=L1-1
+Added Pin To Net: NetName=+3V3_PER Pin=L1-2
+Added Pin To Net: NetName=RJ45_SHIELD Pin=T1-S1
+Added Pin To Net: NetName=RJ45_SHIELD Pin=T1-S2
+Added Pin To Net: NetName=NetIC_T1_10 Pin=IC_T1-10
+Added Pin To Net: NetName=NetIC_T1_10 Pin=R19-2
+Added Net: Name=NetIC_T1_10
+Added Pin To Net: NetName=NetIC_T1_15 Pin=IC_T1-15
+Added Pin To Net: NetName=NetIC_T1_15 Pin=R21-2
+Added Net: Name=NetIC_T1_15
+Added Pin To Net: NetName=NetR20_2 Pin=R20-2
+Added Pin To Net: NetName=NetR20_2 Pin=T1-4
+Added Pin To Net: NetName=NetR20_2 Pin=T1-5
+Added Net: Name=NetR20_2
+Added Pin To Net: NetName=NetR22_2 Pin=R22-2
+Added Pin To Net: NetName=NetR22_2 Pin=T1-7
+Added Pin To Net: NetName=NetR22_2 Pin=T1-8
+Added Net: Name=NetR22_2
+Added Member To Class: ClassName=Ethernet Member=Component L1 Ferrite_Bead
+Added Room: Name=Debugging
+Added Room: Name=ESP8266
+Added Room: Name=Ethernet
+Added Room: Name=MCU
